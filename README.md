@@ -10,7 +10,7 @@ for a ride-hailing service. Built using **Microsoft Power BI** and
 
 Explore the complete project presentation, including dashboard visuals, key metrics, and business insights.
 
-👉 [View Uber Ride Analytics Dashboard Presentation (PDF)](Dashboard Screenshots.pdf)
+👉 [View Uber Ride Analytics Dashboard Presentation (PDF)](/Dashboard Screenshots.pdf)
 ------------------------------------------------------------------------
 
 ## 📚 Contents
