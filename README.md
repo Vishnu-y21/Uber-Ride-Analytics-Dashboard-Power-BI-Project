@@ -12,13 +12,13 @@ for a ride-hailing service. Built using **Microsoft Power BI** and
 
 ## 📚 Contents
 
--   [🎯 Business Problem](#-business-problem)
--   [Objectives](#-objectives)
--   [📊 Dashboard Pages](#-dashboard-pages)
--   [🔑 Key Metrics](#-key-metrics-all-vehicle-types)
--   [💡 Key Insights](#-key-insights)
--   [🛠️ Tools & Skills](#️-tools--skills)
--   [🏁 Conclusion](#-conclusion)
+-   [🎯 Business Problem]
+-   [Objectives]
+-   [📊 Dashboard Pages]
+-   [🔑 Key Metrics]
+-   [💡 Key Insights]
+-   [🛠️ Tools & Skills]
+-   [🏁 Conclusion]
 
 ------------------------------------------------------------------------
 
