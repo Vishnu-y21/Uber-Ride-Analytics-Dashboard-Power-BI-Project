@@ -5,7 +5,7 @@ revenue, rider behavior, vehicle types, and pickup/drop-off locations
 for a ride-hailing service. Built using **Microsoft Power BI** and
 **Microsoft Excel**.
 
-> 📌 Independent portfolio project created for learning purposes. Not
+> 📌 Portfolio project created for learning purposes. Not
 > affiliated with or endorsed by Uber.
 
 ------------------------------------------------------------------------
