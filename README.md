@@ -78,7 +78,9 @@ analysis and data-driven decision-making.
   📍 **Location**                     Total-distance trend, distance by
                                       vehicle type and location, and a
                                       weekday/time-slot heatmap
+                                      
   -----------------------------------------------------------------------
+
 
 ## 🔑 Key Metrics (All Vehicle Types)
 
