@@ -49,49 +49,25 @@ analysis and data-driven decision-making.
 
 ## 📊 Dashboard Pages
 
-  -----------------------------------------------------------------------
-  Page                                What it shows
-  ----------------------------------- -----------------------------------
-  🏠 **Home**                         Landing page with project overview
-                                      and navigation buttons
-
-  📈 **Overview**                     KPI cards; completed bookings and
-                                      revenue trends by month or quarter;
-                                      revenue by vehicle type; top pickup
-                                      and drop-off locations; average
-                                      customer and driver ratings
-
-  🚘 **Vehicle**                      Vehicle-level customer count,
-                                      revenue, completed bookings, and
-                                      monthly trend sparklines
-
-  💰 **Revenue**                      Monthly/quarterly revenue, revenue
-                                      by vehicle type and payment method,
-                                      and top customers by revenue
-
-  🧍 **Rider**                        Rider segments, customer trends,
-                                      customers by payment method,
-                                      cancellation reasons (incomplete,
-                                      driver, customer), and customer
-                                      details
-
-  📍 **Location**                     Total-distance trend, distance by
-                                      vehicle type and location, and a
-                                      weekday/time-slot heatmap
-                                      
-  -----------------------------------------------------------------------
-
+| Page | What it shows |
+| :--- | :--- |
+| 🏠 **Home** | Landing page with project overview and navigation buttons |
+| 📈 **Overview** | KPI cards; completed bookings and revenue trends by month or quarter; revenue by vehicle type; top pickup and drop-off locations; average customer and driver ratings |
+| 🚘 **Vehicle** | Vehicle-level customer count, revenue, completed bookings, and monthly trend sparklines |
+| 💰 **Revenue** | Monthly/quarterly revenue, revenue by vehicle type and payment method, and top customers by revenue |
+| 🧍 **Rider** | Rider segments, customer trends, customers by payment method, cancellation reasons (incomplete, driver, customer), and customer details |
+| 📍 **Location** | Total-distance trend, distance by vehicle type and location, and a weekday/time-slot heatmap |
 
 ## 🔑 Key Metrics (All Vehicle Types)
 
-  Metric                                Value
-  -------------------- ----------------------
-  Completed bookings                   92,551
-  Lost bookings                         8,994
-  Total revenue          51.85M (5,18,46,183)
-  Total distance                        2.51M
-  Average distance                      24.64
-  Customers                           104,114
+| Metric | Value |
+| :--- | :--- |
+| Completed bookings | 92,551 |
+| Lost bookings | 8,994 |
+| Total revenue | 51.85M (5,18,46,183) |
+| Total distance | 2.51M |
+| Average distance | 24.64 |
+| Customers | 104,114 |
 
 ## 💡 Key Insights
 
