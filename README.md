@@ -134,15 +134,8 @@ analysis and data-driven decision-making.
 
 ## 🏁 Conclusion
 
-This project strengthened my practical Power BI skills by working with
+This project strengthened Power BI skills by working with
 business-focused ride metrics and designing an interactive analytical
 dashboard. It brings booking performance, revenue, vehicle categories,
 rider behavior, and location-related patterns into one report to make
 key trends easier to explore.
-
-------------------------------------------------------------------------
-
-### 👋 About this Project
-
-Created as part of my Data Analytics portfolio to practice turning
-operational data into clear, useful business insights.
