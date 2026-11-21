@@ -8,9 +8,6 @@ for a ride-hailing service. Built using **Microsoft Power BI** and
 > 📌 Independent portfolio project created for learning purposes. Not
 > affiliated with or endorsed by Uber.
 
-Explore the complete project presentation, including dashboard visuals, key metrics, and business insights.
-
-👉 [View Uber Ride Analytics Dashboard Presentation (PDF)](/Dashboard Screenshots.pdf)
 ------------------------------------------------------------------------
 
 ## 📚 Contents
